@@ -34,7 +34,7 @@ Colab: [NLP-TP5](https://github.com/sevann-radhak/procesamiento_lenguaje_natural
 
 
 # Thanks!
-Feel free to contact me by mail sevann.radhak@gmail.com_ for any doubt.\
+Feel free to contact me by mail sevann.radhak@gmail.com for any doubt.\
 
 
 
