@@ -8,7 +8,7 @@ Implement a Naïve Bayes classifier with text vectorization using the 20 newsgro
 Colab: [NLP-TP1](https://github.com/sevann-radhak/procesamiento_lenguaje_natural/blob/main/clase_1/ejercicios/NLP-TP1.ipynb)
 
 ## TP2: Custom Embeddings with Gensim
-<!-- ![img1](images/sentinel.png)\ -->
+![img1](images/embeddings_with_gensim.png)\
 Analyzing and comparing word embeddings from fake and true news datasets using Word2Vec. The project explores how different contexts influence word associations in fake versus true news, with visualization and similarity analysis for deeper insights.\
 Colab: [NLP-TP2](https://github.com/sevann-radhak/procesamiento_lenguaje_natural/blob/main/clase_2/ejercicios/NLP-TP2.ipynb)
 
@@ -23,12 +23,12 @@ Explore the development of a character-level language model using recurrent neur
 Colab: [NLP-TP3 char](https://github.com/sevann-radhak/procesamiento_lenguaje_natural/blob/main/clase_3/ejercicios/NLP-TP3%20char.ipynb)
 
 ## TP4: LSTM-based Conversational AI for QA Bot
-<!-- ![img1](images/sentiment_analysis.png)\ -->
+![img1](images/qa_bot.png)\
 Develop a QA Bot using LSTM to handle user queries based on the ConvAI2 dataset. The project involves preprocessing data, implementing a sequence-to-sequence model with FastText embeddings, and optimizing the bot's accuracy through hyperparameter tuning. Colab: conversational_ai_project.\
 Colab: [NLP-TP4](https://github.com/sevann-radhak/procesamiento_lenguaje_natural/blob/main/clase_6/ejercicios/NLP-TP4.ipynb)
 
 ## TP5: Sentiment Analysis with BERT: Classifying Product Reviews into three and five categories
-<!-- ![img1](images/sentiment_analysis.png)\ -->
+![img1](images/sentiment_analysis.png)\
 Utilize BERT to classify product reviews into negative, neutral, and positive sentiments. Includes model building, training, and evaluation with TensorFlow and Hugging Face Transformers. The project highlights performance visualization and key metrics for three sentiment classes. The same for five categories.\
 Colab: [NLP-TP5](https://github.com/sevann-radhak/procesamiento_lenguaje_natural/blob/main/clase_7/ejercicios/NLP-TP5.ipynb)
 
